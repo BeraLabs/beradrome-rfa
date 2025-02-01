@@ -13,4 +13,8 @@ b) dapp users : staked/swapped/voted etc, with atleast 3 txs <p></p>
 c) dapp farmers : all deposit/withdrawals/claiming txs, need atleast 3 txs (deposit, claim, withdraw or second claim/deposit whatever)<p></p>
 d) trifecta users : took all deposit/withdrawals/claiming txs, need atleast 2 txs (deposit + claim)<p></p>
 
-weighting based on how many of the above 4 actions were completed & how much BGT delegated
+delegators 10%<p></p>
+dapp users who swapped / staked / borrowed / voted  15%<p></p>
+dapp users who farmed 15% <p></p>
+dapp users who farmed trifecta 20%<p></p>
+dapp users that did everything above 40%<p></p>
