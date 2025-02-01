@@ -20,3 +20,5 @@ dapp users who swapped / staked / borrowed / voted  15%<p></p>
 dapp users who farmed 15% <p></p>
 dapp users who farmed trifecta 20%<p></p>
 dapp users that did everything above 40%<p></p>
+
+<h3>FINAL SUBMISSION WAS DONE 11/26/2024</h3>
